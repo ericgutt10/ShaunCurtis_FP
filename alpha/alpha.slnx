@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FPLib/FPLib.csproj" />
+  <Project Path="MainConsole/MainConsole.csproj" />>
+</Solution>
