@@ -6,7 +6,7 @@ public record Container<T>
 
     private Container(T value) => this.Value = value;
 
-    public static Container<T> Read(T value) => new Container<T>(value);
+    public static Container<T> Read(T value) => new(value);
 }
 
 public static class Container
